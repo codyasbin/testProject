@@ -38,3 +38,6 @@ npm install
 </details>
 
 ```sdjhc jsdjsnd```
+
+Use the `git status` command to check status.
+
