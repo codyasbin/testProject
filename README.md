@@ -48,3 +48,8 @@ npm install my-library
 
 ```python
 pip install python
+```
+<pre><code>
+npm install js
+</code></pre>
+
