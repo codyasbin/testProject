@@ -31,3 +31,8 @@ This line has a line break above.
 <a href="https://example.com" target="_blank">Open in new tab</a>
 
 <h1>hi i am asbin </h1>
+<details> <summary>Click to expand</summary>
+git clone https://github.com/user/repo.git
+cd repo
+npm install
+</details>
