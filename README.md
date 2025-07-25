@@ -40,4 +40,6 @@ npm install
 ```sdjhc jsdjsnd```
 
 Use the `git status` command to check status.
-
+[GitHub](https://github.com "Visit GitHub")
+```bash
+npm install my-library
